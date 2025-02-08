@@ -146,7 +146,7 @@ zokou( {
 
     *Messages :* ${rank.messages}
     
-   ┕━✿━┑ yesser tech ┍━✿━┙`
+   ┕━✿━┑ mr online tech ┍━✿━┙`
     
      zk.sendMessage( 
         dest,
