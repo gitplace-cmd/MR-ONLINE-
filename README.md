@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Njabulo+Jb+)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=MR ONLINE+BOT+)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/iaqbhv.jpg" width="500" height="500" />
 
@@ -19,11 +19,11 @@
 
 
 <p align="center">
-<a href="https://github.com/NjabuloJ/followers"><img title="Followers" src="https://img.shields.io/github/followers/NjabuloJ?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/"><img title="Size" src="https://img.shields.io/github/repo-size/NjabuloJ/Njabulo-Jb?style=flat-square&color=blue"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Mronline23/MR-ONLINE-/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mr online?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mronline23/MR-ONLINE-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mr online/Online-Jb?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mronline23/MR-ONLINE-/network/members"><img title="Forks" src="https://img.shields.io/github/mr-online?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mronline23/MR-ONLINE-/"><img title="Size" src="https://img.shields.io/github/repo-size/Mr online/Online-Jb?style=flat-square&color=blue"></a>
+<a href="https://github.com/Mronline23/MR-ONLINE-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -43,7 +43,7 @@
 
   
    
-   <a href="https://github.com/NjabuloJ/Njabulo-Jb/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Mronline23/MR-ONLINE-/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -54,7 +54,7 @@
  
 
 
-  <a href="https://njabulo-5778.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://mr online-5778.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -73,7 +73,7 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-JB1"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Mronline23/MR-ONLINE--Online"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
@@ -93,9 +93,9 @@
 ## CONTACT MR ONLINE 
   
 <a href="https://wa.me/255679859950"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://whatsapp.com/channel/0029VauOajDGzzKc6va0T82i> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/NjabuloJ/Njabulo-jb"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="Njabulo "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/Mronline23/MR-ONLINE-"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="Online "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
 </p>
 
 
