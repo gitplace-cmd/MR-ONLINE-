@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +NJABULO;WHATSAPP+BOT+CREATED+BY+NJABULO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MR+ONLINE;WHATSAPP+BOT+CREATED+BY+MR+ONLINE" alt="Typing SVG" /></a>
 
 
 
@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Njabulo+Jb+)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://i.imgur.com/CvITRBj.jpeg" width="500" height="500" />
+<p align="centre"><img src="https://files.catbox.moe/iaqbhv.jpg" width="500" height="500" />
 
 
 
@@ -19,11 +19,11 @@
 
 
 <p align="center">
-<a href="https://github.com/NjabuloJ/followers"><img title="Followers" src="https://img.shields.io/github/followers/NjabuloJ?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/"><img title="Size" src="https://img.shields.io/github/repo-size/NjabuloJ/Njabulo-Jb?style=flat-square&color=blue"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Mronline23/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mronline23?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mronline23/MR-ONLINE-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mronline23/MR-ONLINE-?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mronline23/MR-ONLINE-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mronline23/MR-ONLINE-?color=blue&style=flat-square"></a>
+<a href="Mronline23/MR-ONLINE-/"><img title="Size" src="https://img.shields.io/github/repo-size/Mronline23/MR-ONLINE-?style=flat-square&color=blue"></a>
+<a href="https://github.com/Mronline23/MR-ONLINE-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -43,7 +43,7 @@
 
   
    
-   <a href="https://github.com/NjabuloJ/Njabulo-Jb/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Mronline23/MR-ONLINE-/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -73,14 +73,14 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-JB1"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Mronline23/MR-ONLINE-"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[____________________________________________________]
+[____________𝙼𝚁 𝙾𝙽𝙻𝙸𝙽𝙴________________________________________]
 
 
 
@@ -90,7 +90,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT NJABULO JB 
+## CONTACT 𝗠𝗥 𝗢𝗡𝗟𝗜𝗡𝗘 
   
 <a href="https://wa.me/26777821911"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
@@ -113,6 +113,6 @@
     </a>
 </p>
 
-## Njabulo support 
+## 𝗠𝗥 𝗢𝗡𝗟𝗜𝗡𝗘  𝗦𝗨𝗣𝗣𝗢𝗥𝗧
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=MULT JB BOT +MAKE; STAR ⭐+AND+FORKS+BY+NJABULO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=MULT 𝗠𝗥 BOT +MAKE; STAR ⭐+AND+FORKS+BY+𝗠𝗥+𝗢𝗡𝗟𝗜𝗡𝗘+" alt="Typing SVG" /></a>
