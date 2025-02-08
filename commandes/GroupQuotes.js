@@ -19,7 +19,7 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *yessertech*`);
+Powered by *mr online tech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -37,7 +37,7 @@ Powered by *yessertech*`);
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *yessertech*`);
+Powered by *mr onlinetech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
