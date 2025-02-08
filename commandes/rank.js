@@ -210,7 +210,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ YESSeR md  rank menu  ┗━━━┓
+┏━━━┛ MR ONLINE md  rank menu  ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -222,7 +222,7 @@ zokou( {
 
   *Messages :* ${rang.messages}
 
-   ┕━✿━┑ YESSER tech ┍━✿━┙`
+   ┕━✿━┑ MR-ONLINE TECH ┍━✿━┙`
     
      zk.sendMessage( 
         dest,
