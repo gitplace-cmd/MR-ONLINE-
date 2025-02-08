@@ -13,7 +13,7 @@ zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions)
       fetch('https://animechan.xyz/api/random')
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`*YESSER-MDQuotes*
+          repondre(`*MR ONLINE-MDQuotes*
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
@@ -31,7 +31,7 @@ Powered by *mr online tech*`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`YESSER-MD
+          repondre(`MR-ONLINE MD
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
