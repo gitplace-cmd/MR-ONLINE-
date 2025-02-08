@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD🎁is running on its latest vision_*`) 
+                 await repondre(`*_MR ONLINE MD🎁is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_𝐛𝐨𝐭 𝐜𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝚈𝙴𝚂𝚂𝙴𝚁 𝚃𝙴𝙲𝙷🤠𝐯𝐢𝐬𝐢𝐨𝐧 𝐢𝐬 97162963^𝐬𝐯_*`) 
+                 await repondre(`*_𝐛𝐨𝐭 𝐜𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 MR ONLINE 𝚃𝙴𝙲𝙷🤠𝐯𝐢𝐬𝐢𝐨𝐧 𝐢𝐬 97162963^𝐬𝐯_*`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY YESSER MD",
-    "By YESSER TECH`) 
+    "POWERED BY MR ONLINE MD",
+    "By MR-ONLINE TECH`) 
 
    
 
@@ -212,7 +212,7 @@ zokou({ nomCom: '2025',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*_┏━━━━━━━━━━━━━•••
-┃   🤶𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗🎅
+┃   🤶MR-ONLINE 𝗠𝗗🎅
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 🤶 W̶I̶S̶H̶E̶S̶ Y̶O̶U̶ 𝘩𝘢𝘱𝘱𝘺 
