@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "😃", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "😒", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = https://github.com/Mronline23/MR-ONLINE-
   const img = 'https://files.catbox.moe/iaqbhv.jpg';
 
