@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "yessertech 🤠", numero: "255621995482" },
-      { nom: "spider Man", numero: "255685957360" },
+      { nom: "mr online tech 🤠", numero: "255679859950" },
+      { nom: "spider Man", numero: "255679859950" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "༆🖐️🤠 𝘫𝘢𝘮𝘣𝘰! 𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘠𝘌𝘚𝘚𝘌𝘙 𝘔𝘋 𝘵𝘦𝘢𝘮 𝘤𝘳𝘦𝘢𝘵𝘰𝘳 𝘪𝘧 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘢𝘯𝘺 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯 𝘢𝘴𝘬 𝘶𝘴༆ To :\n\n";
+    let message = "༆🖐️🤠 𝘫𝘢𝘮𝘣𝘰! 𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 MR ONLINE 𝘔𝘋 𝘵𝘦𝘢𝘮 𝘤𝘳𝘦𝘢𝘵𝘰𝘳 𝘪𝘧 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘢𝘯𝘺 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯 𝘢𝘴𝘬 𝘶𝘴༆ To :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`},{quoted :ms})
+  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VauOajDGzzKc6va0T82i`},{quoted :ms})
 
 })
 
@@ -103,12 +103,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🤠" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "YESSER😎BOY", numero: "255621995482" },
-      { nom: "yesser teach", numero: "255685957360" },
+      { nom: "MR ONLINE 😎TECH", numero: "255679859950" },
+      { nom: "MR ONLINE teach", numero: "255679859950" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to yesser md * here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to Mr online md * here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
