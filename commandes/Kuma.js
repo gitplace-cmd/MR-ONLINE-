@@ -33,7 +33,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃⊛│◆ 𝚁𝚊𝚖  : 𝟴/𝟭𝟯𝟮 𝗚𝗕
 ┃⊛│◆ 𝙳𝚊𝚝𝚎  : *${date}* 
 ┃⊛│◆ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
-┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : YESSERTECH
+┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : MR ONLINE TECH
 ┃⊛│◆ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
 ┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : yessertech
 ┃⊛└▰▱▰▱▰▱▰▱➻
@@ -53,7 +53,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰▰▰▰═⊷✺•∞•✺⊷═▱▱▱⊷`
     }
     menuMsg += `
-> code by yessertech\n
+> code by mr online tech\n
 `;
    var lien = mybotpic();
    if (lien.match(/\.(mp4|gif)$/i)) {
