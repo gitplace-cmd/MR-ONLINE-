@@ -23,7 +23,7 @@ console.log("mon test");
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Salut je m\'appelle *YESSER-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+   let z ='Salut je m\'appelle *MR ONLINE-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
       let d =' developpé par *Thomas*'
       let varmess=z+d
       var img='https://files.catbox.moe/h800o0.jpeg'
