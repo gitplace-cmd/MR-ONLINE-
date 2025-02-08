@@ -1,5 +1,5 @@
 {
-  "name":"YESSER-MD",
+  "name":"MR-ONLINE MD",
   "description":"Best whatsapp bot created by king yesser",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/71bknp.jpg",
@@ -77,7 +77,7 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"YESSER-MD",
+    "value":"MR ONLINE MD",
     "required":false
 
     },
@@ -117,14 +117,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "yessertech"
+    "value": "MR-ONLINETECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255621995482"
+    "value": "255679859950"
   },
     "WARN_COUNT":
   {
