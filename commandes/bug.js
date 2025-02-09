@@ -203,7 +203,7 @@ let menuMsg = `
 █░░░░░░██░░░░░░█
 ████████████████
 
-> ©made by yessertech 🤠
+> ©made by mr online tech 🤠
 
  `;
 
@@ -211,7 +211,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper Fredi Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper MR ONLINE Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
