@@ -26,6 +26,6 @@ async function  execute  (origineMessage,zok) {
    let z ='Salut je m\'appelle *MR ONLINE-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
       let d =' developpé par *Thomas*'
       let varmess=z+d
-      var img='https://files.catbox.moe/h800o0.jpeg'
+      var img='https://files.catbox.moe/iaqbhv.jpg'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */ 
