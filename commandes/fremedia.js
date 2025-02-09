@@ -24,7 +24,7 @@ zokou({
       'image': {
         'url': _0x93b128
       },
-      'caption': "*powered by YESSER_MD*"
+      'caption': "*powered by MR ONLINE_MD*"
     }, {
       'quoted': _0x4eb9fe
     });
