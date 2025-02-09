@@ -19,8 +19,8 @@
 
 
 <p align="center">
-<a href="https://github.com/Mronline23/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mronline23?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mronline23/MR-ONLINE-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mronline23/MR-ONLINE-?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mronline23/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mronline23?color=green&style=flat-square"></a>
+<a href="https://github.com/Mronline23/MR-ONLINE-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mronline23/MR-ONLINE-?color=green&style=flat-square"></a>
 <a href="https://github.com/Mronline23/MR-ONLINE-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mronline23/MR-ONLINE-?color=blue&style=flat-square"></a>
 <a href="Mronline23/MR-ONLINE-/"><img title="Size" src="https://img.shields.io/github/repo-size/Mronline23/MR-ONLINE-?style=flat-square&color=blue"></a>
 <a href="https://github.com/Mronline23/MR-ONLINE-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
@@ -38,23 +38,23 @@
 ## HOW TO GET BOT
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
   
    
-   <a href="https://github.com/Mronline23/MR-ONLINE-/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Mronline23/MR-ONLINE-/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
  
 
 
-  <a href="https://njabulo-5778.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://timnasa-md42.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
