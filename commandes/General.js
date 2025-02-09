@@ -103,7 +103,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🤠" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "MR ONLINE 😎TECH", numero: "255679859950" },
+      { nom: "TIMNASA-TMD 😎TECH", numero: "255784766591" },
       { nom: "MR ONLINE teach", numero: "255679859950" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
