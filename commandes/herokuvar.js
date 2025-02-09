@@ -183,7 +183,7 @@ zokou({
   }
   ;
   if (!_0x41b130[0] || !_0x41b130.join('').split('=')) {
-    _0x2a77ba("Bad format ; This is the Example of using This command:\nSetvar OWNER_NAME=FrediEzra");
+    _0x2a77ba("Bad format ; This is the Example of using This command:\nSetvar OWNER_NAME=MR-ONLINE");
     return;
   }
   ;
