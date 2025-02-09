@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join YESSER MD Chatroom* https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv`) 
+                 await repondre(`*Tap Here To Join MR ONLINE MD Chatroom* https://chat.whatsapp.com/HDkh15zAeQP6EdGAs3N9qs`) 
 
    
 
