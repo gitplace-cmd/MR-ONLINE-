@@ -14,7 +14,7 @@ const{repondre,ms,dev,superUser}=com;
 
   if(!superUser)
   {
-    return repondre("This command is for owner or YESSER TEACH");
+    return repondre("This command is for owner or MR ONLINE TECH");
   }
 
   const {exec}=require("child_process")
