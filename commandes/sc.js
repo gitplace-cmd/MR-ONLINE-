@@ -39,15 +39,15 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *𝚐𝚋 𝚕𝚒𝚗𝚔*
-> https://github.com/yassin994
+> https://github.com/Mronline23/MR-ONLINE-
 *𝚢𝚝 𝚌𝚑𝚊𝚗𝚗𝚎𝚕*
->https://www.youtube.com/@Yesserboy92
+>none
 *𝚋𝚘𝚝 𝚘𝚠𝚗𝚎𝚛*
-> https://wa.me/255621995482
+> https://wa.me/255679859950
 *𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕*
-> https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30 
+> https://whatsapp.com/channel/0029VauOajDGzzKc6va0T82i 
 *𝚋𝚘𝚝 𝚛𝚘𝚘𝚖*
-> https://github.com/yassin994/YESSER-MD
+> https://github.com/Mronline23/MR-ONLINE-
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *ℝ𝔸𝕄* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
@@ -59,7 +59,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃⚠︎ 𝐘𝐄𝐒𝐒𝐄𝐑 𝐌𝐃
+     ┃⚠︎ MR ONLINE 𝐌𝐃
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
