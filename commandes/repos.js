@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "😟", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "💧", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://github.com/Mronline23/MR-ONLINE-'
   const img = 'https://files.catbox.moe/iaqbhv.jpg';
 
@@ -21,7 +21,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "😟", nomFichier: __
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = ` *𝑯𝒆𝒍𝒍𝒐𝒘 𝒇𝒓𝒊𝒆𝒏𝒅 𝒕𝒉𝒊𝒔 𝒊𝒔 * *MR-ONLINE 𝗠𝗗.*\n _𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒄𝒉𝒂𝒏𝒏𝒆𝒍_ *𝒕𝒉𝒓𝒐𝒖𝒏𝒈*,  https://whatsapp.com/channel/0029VauOajDGzzKc6va0T82i
+      const gitdata = ` *𝑯𝒆𝒍𝒍𝒐𝒘 𝒇𝒓𝒊𝒆𝒏𝒅 𝒕𝒉𝒊𝒔 𝒊𝒔 * *MR-ONLINE 𝗠𝗗.*\n _𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒄𝒉𝒂𝒏𝒏𝒆𝒍_ *𝒕𝒉𝒓𝒐𝒖𝒏𝒈*,  https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
 
 🤠 *𝑅𝐸𝑃𝑂𝑆𝐼𝑇𝑂𝑅𝑌:* ${data.html_url}
 
