@@ -52,7 +52,7 @@ menuText += `┃🤠│ ᴛᴏᴛᴀʟ ᴘʟᴜɢɪɴs: ${totalCommands}\n`
 menuText += `┃🤠│ ᴍᴏᴅᴇ: ${mode}\n`;
         menuText += '┃🤠│ ʟɪʙʀᴀʀʏ: Baileys\n';
         menuText += '┃🤠╰──────────────\n';
-        menuText += '╰━━━━━━━━━━━━━━━━━━┈⊷\n';
+        menuText += '╰━━━━━━━𝚃𝚒𝚖𝚗𝚊𝚜𝚊-𝚝𝚎𝚌𝚑━━━━━━━━━━━┈⊷\n';
 
        
         menuText += '━━━━━━━━━━━━━━━━━━━━\n';
@@ -90,7 +90,7 @@ menuText += `┃🤠│ ᴍᴏᴅᴇ: ${mode}\n`;
         }
 
         await client.sendMessage(m.chat, {
-            image: { url: "https://files.catbox.moe/ixbkja.jpg" },
+            image: { url: "https://files.catbox.moe/iaqbhv.jpg" },
             caption: menuText,
             gifPlayback: true
         }, {
