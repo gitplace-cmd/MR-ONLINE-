@@ -27,24 +27,24 @@ zokou({ nomCom: "team", categorie: "My Contact" }, async (dest, zk, commandeOpti
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault("Africa/Dar Es Salam");
+    moment.tz.setDefault("Africa/NJombe");
 
 // Créer une date et une heure en GMT
 const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-━━━━❍ *𝐘𝐄𝐒𝐒𝐄𝐑 𝐓𝐄𝐀𝐌 𝐃𝐄𝐕𝐒* ❍━━━━
+━━━━❍ *MR ONLINE 𝐓𝐄𝐀𝐌 𝐃𝐄𝐕𝐒* ❍━━━━
 ╭──━━━━━━━━━━━━━━━━━━━❍ 
 │  💚𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐭𝐞𝐚𝐦💚
-│  _*𝐲𝐞𝐬𝐬𝐞𝐫𝐭𝐞𝐜𝐡🤠*_ ;https://wa.me/255621995482
-│  _*𝐛𝐨𝐧𝐢𝐩𝐡𝐚𝐜𝐞 𝐤𝐢𝐧𝐠💫*_ ;https://wa.me/255716661569
-│  _*𝐡𝐚𝐧𝐬𝐭𝐳 𝐭𝐞𝐜𝐡*_ ;https://wa.me/255756530143
-│  _*𝐟𝐫𝐢𝐞𝐝 𝐭𝐞𝐜𝐡255*_;https://wa.me/255752593977
+│  _*Mr online𝐭𝐞𝐜𝐡🤠*_ ;https://wa.me/255679859950
+│  _*mr networker💫*_ ;https://wa.me/255757082894
+│  _*mr online 𝐭𝐞𝐜𝐡*_ ;https://wa.me/255679859950
+│  _*mr networker 𝐭𝐞𝐜𝐡255*_;https://wa.me/255757082894
 │  🇹🇿𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀𝐍 𝐃𝐄𝐕𝐒🇹🇿
 ╰──━━━━━━━━━━━━━━━━━━━❍ 
 ╭──━━━━━━━━━━━━━━━──➳❍ 
-│ *𝐤𝐞𝐞𝐩 𝐮𝐬𝐢𝐧𝐠 YESSER MD❤️*
+│ *𝐤𝐞𝐞𝐩 𝐮𝐬𝐢𝐧𝐠 MR ONLINE MD❤️*
 ╰──━━━━━━━━━━━━━━━──➳❍ 
 ╭────────────────────➳
 │ ⏲️ *ᴛɪᴍᴇ* : ${temps} 
@@ -73,7 +73,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper Fredi Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper mr online Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -83,7 +83,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper Fredie Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper Mr online Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
