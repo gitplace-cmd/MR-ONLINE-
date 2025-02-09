@@ -24,7 +24,7 @@ zokou({ nomCom: "hacker",
 zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest, zk, commandeOptions) => {
     let { arg, repondre, prefixe, ms } = commandeOptions;
     try {
-        const noArgMsg = `*_EXEMPLE *:  ${prefixe}dragonball Fredi`;
+        const noArgMsg = `*_EXEMPLE *:  ${prefixe}dragonball mr online `;
         //  if(arg=='') {await zok.sendMessage(dest,{text:noArgMsg},{quoted:infoMessage}); return;}
         if (arg == '' || !arg) {
             repondre(noArgMsg);
@@ -39,7 +39,7 @@ zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest
         await zk.sendMessage(dest, { text: " *\t Traitement en cours ...*" }, { quoted: ms });
        // var idImg = Object.values(imgInfo)[3];
        
-        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t Logo by YESSER_Md v5*" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t Logo by MR-ONLINE v5*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -59,7 +59,7 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
         var radio2 = "e0723d60-fc0d-421f-bf8f-a9b9b61e4be6";
         var img = await mumaker.ephoto("https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html", arg.join(' '));
         
-        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t *Logo by yesser_md *" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t *Logo by mr online_md *" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
