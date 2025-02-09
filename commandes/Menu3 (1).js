@@ -67,7 +67,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://i.imgur.com/rhN88rS.jpeg";
+    var link = "https://files.catbox.moe/iaqbhv.jpg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©𝑩𝑼𝑮𝑨𝑻𝑻𝑰" }, { quoted: ms });
     }
