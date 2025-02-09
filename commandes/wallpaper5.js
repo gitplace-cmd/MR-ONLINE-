@@ -16,7 +16,7 @@ zokou({
     'image': {
       'url': "https://telegra.ph/file/62c71795586237398b130.jpg"
     },
-    'caption': "🚗𝗥𝗮𝗻𝗱𝗼𝗺 𝘄𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 \n\n 🚗Download it and set it to your wallpaper 𝗙𝗿𝗼𝗺 (YESSER 𝗠𝗗)🚗MADE BY YESSER ADMIN"
+    'caption': "🚗𝗥𝗮𝗻𝗱𝗼𝗺 𝘄𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 \n\n 🚗Download it and set it to your wallpaper 𝗙𝗿𝗼𝗺 (MR ONLINE 𝗠𝗗)🚗MADE BY MR ONLINE ADMIN"
   });
 });
 console.log("mon test");
