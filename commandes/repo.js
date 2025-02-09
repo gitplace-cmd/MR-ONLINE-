@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *𝐓𝐈𝐌𝐍𝐀𝐒𝐀 𝐓𝐌𝐃 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓 𝐈𝐍𝐅𝐎* 
+      *MR ONLINE 𝐌𝐃 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓 𝐈𝐍𝐅𝐎* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Next5x/TIMNASA_TMD1
+> https://github.com/Mronline23/MR-ONLINE-
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
+> https://whatsapp.com/channel/0029VauOajDGzzKc6va0T82i
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *𝐓𝐈𝐌𝐍𝐀𝐒𝐀 𝐌𝐃*
-│❒⁠⁠⁠⁠ *DEV2* : *fredie1 tech*
+│❒⁠⁠⁠⁠ *DEV1* : *MR ONLINE 𝐌𝐃*
+│❒⁠⁠⁠⁠ *DEV2* : *Timnassa tech*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *𝐓𝐈𝐌𝐍𝐀𝐒𝐀 𝐓𝐌𝐃*
+     *MR ONLINE 𝐓𝐌𝐃*
 
 ❒────────────────────❒`;
 
