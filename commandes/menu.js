@@ -34,7 +34,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭──────────────────❂
-┊❂╭───*𝐓𝐈𝐌𝐍𝐀𝐒𝐀-𝐓𝐌𝐃*────❂
+┊❂╭───*MR ONLINE-𝐌𝐃*────❂
 ┊✺┊ *User* : ${s.OWNER_NAME}
 ┊✺┊ *Mode* : ${mode}
 ┊✺╰───────────────❂
@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  **𝐓𝐈𝐌𝐍𝐀𝐒𝐀 𝐓𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓*
+  **MR ONLINE 𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓*
 `;
 
     for (const cat in coms) {
@@ -61,7 +61,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *𝐓𝐈𝐌𝐍𝐀𝐒𝐀 𝐓𝐌𝐃*                                         
+  *MR ONLINE 𝐌𝐃*                                         
 *╰═════════════❂*
 `;
 
